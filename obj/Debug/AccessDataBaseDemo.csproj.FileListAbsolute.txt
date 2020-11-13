@@ -1,0 +1,9 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\bin\Debug\AccessDataBaseDemo.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\AccessDataBaseDemo\AccessDataBaseDemo\obj\Debug\AccessDataBaseDemo.Form1.resources
